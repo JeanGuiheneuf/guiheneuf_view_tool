@@ -10,7 +10,7 @@ Gem::Specification.new do |spec|
   spec.email         = ["jguiheneuf44@gmail.com"]
 
   spec.summary       = %q{Various view specific methods for applications that I use}
-  spec.homepage      = "TODO: Put your gem's website or public repo URL here."
+  spec.homepage      = "https://github.com/JeanGuiheneuf/guiheneuf_view_tool"
   spec.license       = "MIT"
 
   # Prevent pushing this gem to RubyGems.org. To allow pushes either set the 'allowed_push_host'
