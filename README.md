@@ -20,7 +20,9 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+```ruby
+GuiheneufViewTool::Renderer.copyright 'Jean Guiheneuf', 'All right reserved'
+```
 
 ## Development
 
